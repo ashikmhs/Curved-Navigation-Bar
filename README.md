@@ -1,6 +1,11 @@
 # curved_bottom_navigationbar
-
 This is a Curved Bottom Navigation Bar using flutter.
+<p align="center">
+<img src="https://github.com/ashikmhs/Curved-Navigation-Bar/blob/master/images/Screenshot1.png" width="250"  />
+</p>
+<p align="center">
+<img src="https://github.com/ashikmhs/Curved-Navigation-Bar/blob/master/images/Screenshot2.png" width="250"  />
+</p>
 
 ## Getting Started
 

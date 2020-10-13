@@ -1,6 +1,6 @@
 # curved_bottom_navigationbar
 
-A new Flutter application.
+This is a Curved Bottom Navigation Bar using flutter.
 
 ## Getting Started
 
